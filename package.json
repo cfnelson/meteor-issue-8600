@@ -1,0 +1,28 @@
+{
+  "name": "meteor-issue-8600",
+  "private": false,
+  "scripts": {
+    "start": "meteor --settings settings.json"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.18.0",
+    "history": "^4.6.1",
+    "meteor-node-stubs": "^0.2.3",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-router-dom": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.1",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
+    "babel-preset-meteor": "^6.22.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-register": "^6.24.1",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-import-resolver-meteor": "^0.3.4",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3"
+  }
+}
